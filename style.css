@@ -1,0 +1,58 @@
+<style>
+html{ 
+  font-size: 10px;
+}
+main{
+  background-color: gray;
+}
+
+body{ 
+    text-align: center;
+    font-color: lightblue;
+}
+
+ h1{
+   color: lightblue;
+   font-size: 3rem;
+   margin-bottom: 0;
+    }
+h3{
+  color: lightblue;
+  text-decoration: wavy underline;
+  font-size: 2rem;
+  margin-bottom: 1%;
+}
+
+h4{
+  color: lightblue;
+  font-size: 1.2rem;
+  margin-top: 0;
+}
+
+
+img{
+  max-width: 100%;
+  display: block;
+}
+
+#img-div{
+  background-color: lightgray;
+  padding: 1%;
+}
+
+#img-caption{
+    font-size: 0.8rem;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+  
+}
+
+li{
+  margin-top: 3%;
+}
+
+</style>
